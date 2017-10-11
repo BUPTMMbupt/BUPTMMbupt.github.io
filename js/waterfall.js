@@ -18,63 +18,31 @@
       img_link: 'https://c1.staticflickr.com/5/4205/35541174766_62ff13fc89_z.jpg',
       title: 'Doctor:Zheng Zhang',
       core_tech: 'DeepLearing',
-      description: '博士生。巴拉巴拉巴拉。详情 <a href ="../infor/2014/08/15/still-in-germany.html/">这里</a>。'
+      description: '博士。巴拉巴拉巴拉。详情 <a href ="../infor/2014/08/15/still-in-germany.html/">这里</a>。'
     }
   ]
   var demoContent = [
-    {
-      demo_link: '../infor/2017/07/01/zhangzheng.html',
-      img_link: 'https://c1.staticflickr.com/5/4205/35541174766_62ff13fc89_z.jpg',
+     {
+      demo_link: '../infor/2017/07/01/liuxinchen.html',
+      img_link: 'https://c1.staticflickr.com/5/4264/35214228640_5de476f0ca_n.jpg',
 
-      title: 'Doctor: 张征',
-      core_tech: 'ImageIdentification MachineLearing DeepLearing',
-      description: ' <a href ="../infor/2017/07/01/zhangzheng.html/">点击</a>'
+      title: 'Doctor:刘鑫辰',
+      core_tech: 'Multimedia,Computer Vision',
+      description: ' <a href ="../infor/2017/07/01/liuxinchen.html">点击</a>'
     }, {
       demo_link: '../infor/2017/07/01/liuwu.html',
       img_link: 'https://c1.staticflickr.com/5/4069/35562010736_b094bc663b_z.jpg',
 
       title: 'Tutor: 刘武',
-      core_tech: 'jQuery BootStrap CSS3',
-      description: '巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴'
-	  +'拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴'
-	  +'拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉'
-	  +'巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉'
-	  +'巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉。详情 <a href ="../infor/2017/07/01/liuwu.html">点击</a>'
-    }, {
-      demo_link: '../infor/2017/07/01/liuxinchen.html',
-      img_link: 'https://c1.staticflickr.com/5/4264/35214228640_5de476f0ca_n.jpg',
-
-      title: 'Doctor:刘鑫辰',
-      core_tech: 'JavaScript LocalStorage',
-      description: ' <a href ="../infor/2017/07/01/liuxinchen.html">点击</a>'
+      core_tech: 'Multimedia,Computer Vision',
+      description: '详情 <a href ="../infor/2017/07/01/liuwu.html">点击</a>'
     }, {
       demo_link: '../infor/2017/07/01/lishuanqun.html',
       img_link: 'https://c1.staticflickr.com/5/4212/35601158335_27b775c4cd_z.jpg',
 
       title: 'Doctor:李双群',
-      core_tech: 'jQuery CSS',
+      core_tech: 'Multimedia,Computer Vision',
       description:  ' <a href ="../infor/2017/07/01/lishuanqun.html">点击</a>'
-    }, {
-      demo_link: '../infor/2017/07/01/lvjinna.html',
-      img_link: '//c1.staticflickr.com/5/4261/35456389951_0e64101639_n.jpg',
-
-      title: 'Doctor:吕金娜',
-      core_tech: 'JavaScript LocalStorage requireJS Sass Gulp XSS',
-      description: ' <a href ="../infor/2017/07/01/lvjinna.html">点击</a>'
-    }, {
-      demo_link: '../infor/2017/07/01/liupeiye.html',
-      img_link: '//c1.staticflickr.com/5/4231/35456390641_c71f1255d3_n.jpg',
-
-      title: 'Doctor:刘培业',
-      core_tech: 'JavaScript',
-      description: ' <a href ="../infor/2017/07/01/liupeiye.html">点击</a>'
-    }, {
-      demo_link: '../infor/2017/07/01/liukun.html',
-      img_link: '//c1.staticflickr.com/5/4286/34745386644_7985dd154f_n.jpg',
-
-      title: 'Doctor:刘鲲',
-      core_tech: 'JavaScript',
-      description: ' <a href ="../infor/2017/07/01/liukun.html">点击</a>'
     }
   ];
   
