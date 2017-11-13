@@ -10,12 +10,23 @@ type: page
 {:toc}
 
 ## 发表论文
+#### Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN
 
-### xxxx1会议
-* xxx题目 某xxxxxxxxx连接
+Author：Wu Liu, Xinchen Liu, Huadong Ma, Peng Cheng
 
-    作者：xxxxxxxxxxxxxxx
+Proc. of ACM Multimedia, 2017 (Full paper, CCF推荐A类国际会议)
 
+#### Multi-Task Deep Visual-Semantic Embedding for VideoThumbnail Selection
+
+Author：Wu Liu, Tao Mei, Yongdong Zhang, Cherry Che, Jiebo Luo
+
+IEEE CVPR, 2015, pp. 3707-3715  (CCF推荐A类国际会议, 单篇被引用 65 次)
+
+#### Instant Mobile Video Search with Layered Audio-Video Indexing and Progressive Transmission
+
+Author：Wu Liu, Tao Mei, Yongdong Zhang
+
+IEEE Trans. on Multimedia, vol.16, no.8, pp.2242-2255, 2014 (多媒体领域顶级期刊, SCI, IF:2.536)
 ### xxxx2会议
 * xxx题目 某xxxxxxxxx连接
 
