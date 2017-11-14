@@ -10,4 +10,6 @@ title: BUPTMM
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-paginate: 10
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
