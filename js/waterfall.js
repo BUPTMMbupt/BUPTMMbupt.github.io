@@ -24,21 +24,21 @@
   var demoContent = [
      {
       demo_link: '../infor/2017/07/01/liuxinchen.html',
-      img_link: 'https://c1.staticflickr.com/5/4264/35214228640_5de476f0ca_n.jpg',
+      img_link: '/images/liuxinchen.jpg',
 
       title: 'Doctor:刘鑫辰',
       core_tech: 'Multimedia,Computer Vision',
       description: ' <a href ="../infor/2017/07/01/liuxinchen.html">点击</a>'
     }, {
       demo_link: '../infor/2017/07/01/liuwu.html',
-      img_link: 'https://c1.staticflickr.com/5/4069/35562010736_b094bc663b_z.jpg',
+      img_link: '/images/liuwu.jpg',
 
       title: 'Tutor: 刘武',
       core_tech: 'Multimedia,Computer Vision',
       description: '详情 <a href ="../infor/2017/07/01/liuwu.html">点击</a>'
     }, {
       demo_link: '../infor/2017/07/01/lishuanqun.html',
-      img_link: 'https://c1.staticflickr.com/5/4212/35601158335_27b775c4cd_z.jpg',
+      img_link: '/images/lilaoshi.jpg',
 
       title: 'Doctor:李双群',
       core_tech: 'Multimedia,Computer Vision',
