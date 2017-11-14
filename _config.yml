@@ -10,7 +10,27 @@ title: BUPTMM
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
+<<<<<<< HEAD
 # paginate
 
 
 
+=======
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
+>>>>>>> 151ae9f26e3dd0862290b4590d223544ed719beb
