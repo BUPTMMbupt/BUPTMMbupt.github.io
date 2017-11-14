@@ -7,5 +7,7 @@
 
 # Site settings
 title: BUPTMM
+brief-intro: Front-end Dev Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
 
-
+paginate: 10
