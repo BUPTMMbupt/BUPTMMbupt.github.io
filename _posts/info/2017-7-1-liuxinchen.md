@@ -8,7 +8,7 @@ description:
 * content
 {:toc}
 
-![Image text](https://c1.staticflickr.com/5/4264/35214228640_5de476f0ca_n.jpg)
+
 
 ## BIOGRAPHY
 * I am a fourth year Ph.D student of Beijing Key Laboratory of Intelligent Telecommunications Software and Multimedia in Beijing University of Posts and Telecommunications (BUPT). My supervisor is Prof. Huadong Ma. 
