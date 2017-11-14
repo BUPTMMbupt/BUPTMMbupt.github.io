@@ -76,7 +76,7 @@ function contentInit(content) {
   // var htmlStr = htmlArr.join('')
   var htmlStr = ''
   for (var i = 0; i < content.length; i++) {
-	if(i==1){
+	if(i==0){
 		htmlStr += '<div class="grid-item">' + '   <a class="a-img" href="' + content[i].demo_link + '">' 
 	+ '       <img src="' + content[i].img_link + '">' + '   </a>' + '   <h3 class="demo-tutor">' 
 	+ '       <b href="' + content[i].demo_link + '">' + content[i].title + '</b>' + '   </h3>' 
