@@ -22,6 +22,14 @@
     }
   ]
   var demoContent = [
+    {
+      demo_link: '../infor/2017/07/01/liuwu.html',
+      img_link: '/images/liuwu.jpg',
+
+      title: 'Tutor: 刘武',
+      core_tech: 'Multimedia,Computer Vision',
+      description: '详情 <a href ="../infor/2017/07/01/liuwu.html">点击</a>'
+     }, 
      {
       demo_link: '../infor/2017/07/01/liuxinchen.html',
       img_link: '/images/liuxinchen.jpg',
@@ -29,13 +37,6 @@
       title: 'Doctor:刘鑫辰',
       core_tech: 'Multimedia,Computer Vision',
       description: ' <a href ="../infor/2017/07/01/liuxinchen.html">点击</a>'
-    }, {
-      demo_link: '../infor/2017/07/01/liuwu.html',
-      img_link: '/images/liuwu.jpg',
-
-      title: 'Tutor: 刘武',
-      core_tech: 'Multimedia,Computer Vision',
-      description: '详情 <a href ="../infor/2017/07/01/liuwu.html">点击</a>'
     }, {
       demo_link: '../infor/2017/07/01/lishuanqun.html',
       img_link: '/images/lilaoshi.jpg',
